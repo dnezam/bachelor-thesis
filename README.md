@@ -5,6 +5,7 @@ Author: Daniel Nezamabadi
 Supervisors: Prof. Dr. Zhendong Su, Sverrir Thorgeirsson  
 Department of Computer Science, ETH Zurich
 
+[Task description](documents/task_description.pdf) - 
 [Written report (pdf)](documents/written_report.pdf) - 
 [Slides (pdf, formatting broke during export)](documents/presentation.pdf)
 
