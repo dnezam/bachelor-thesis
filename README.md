@@ -32,3 +32,6 @@ Run `runner.py` located in the `code` directory using Python:
 python runner.py
 ```
 Make sure that you have installed PyQt5 and are using Python 3.10 (or later).
+
+## Note
+The GUI is not really intuitive, nor is it documented. In case you are interested, please open an issue, in which case I will try to document the GUI to the best of my abilities.
